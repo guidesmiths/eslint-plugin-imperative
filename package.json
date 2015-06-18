@@ -1,0 +1,18 @@
+{
+  "name": "eslint-plugin-imperative",
+  "version": "0.0.1",
+  "description": "AA set of eslint rules used by JavaScript Imperative Style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GuideSmiths Ltd",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">=0.8.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin"
+  ]
+}
