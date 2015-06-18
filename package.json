@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-imperative",
   "version": "0.0.1",
-  "description": "AA set of eslint rules used by JavaScript Imperative Style",
+  "description": "A set of eslint rules used by JavaScript Imperative Style",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
