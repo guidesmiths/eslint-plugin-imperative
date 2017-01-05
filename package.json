@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-imperative",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "A set of eslint rules used by JavaScript Imperative Style",
   "main": "index.js",
   "scripts": {
