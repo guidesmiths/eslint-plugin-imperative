@@ -8,10 +8,6 @@
   },
   "author": "GuideSmiths Ltd",
   "license": "ISC",
-  "peerDependencies": {
-    "eslint": ">=0.8.0",
-    "eslint-plugin-imperative": ">=0.0.1"
-  },
   "keywords": [
     "eslint",
     "eslintplugin"
@@ -23,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/guidesmiths/eslint-plugin-imperative/issues"
   },
-  "homepage": "https://github.com/guidesmiths/eslint-plugin-imperative"
+  "homepage": "https://github.com/guidesmiths/eslint-plugin-imperative",
+  "peerDependencies": {
+    "eslint": "^3.12.2"
+  }
 }
