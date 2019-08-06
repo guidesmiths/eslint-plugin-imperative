@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/guidesmiths/eslint-plugin-imperative",
   "peerDependencies": {
-    "eslint": "^5.0.0"
+    "eslint": "^6.1.0"
   }
 }
